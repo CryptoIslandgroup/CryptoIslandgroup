@@ -1,0 +1,15 @@
+Since we have a fair launch on 21st of August 2021 we can not have a normal fair launch. In these days all projects are botted/sniped..
+We have taken serious anti-bot/snipe measurements that can not be shared before the launch. 
+
+Our contract is a fork of the Elongate contract. We improved it at 8 points. The contract will be shared at 3 PM UTC 21 August 2021.
+We will lock the liquidity for a minimum of 1 year. After 9 months we have a date planned in the public app to decide about the years will we add to this lock.
+In this way we keep it transparant and safe. Some time a go Pancakeswap switched from V1 to V2, all of the locked liquidity is lost because of the "100 year" locks.
+We want to avoid these problems.
+
+For the wallets we have we will use Multisig from Gnosis. All boardmembers will have a key to the wallet.
+When someone wants to do a transaction you need a minimum of 75% of the keys to approve it.
+In this way the wallets will be more safe for all of us.
+
+
+- After the launch we will share the contract here -
+ 
